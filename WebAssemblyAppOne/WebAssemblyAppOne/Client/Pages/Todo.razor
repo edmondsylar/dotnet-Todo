@@ -1,0 +1,59 @@
+<style>
+    .my_table{
+        display: none;
+        width: 75%;
+        
+    }
+</style>
+
+
+@page "/todo"
+
+<PageTitle>Todo Items</PageTitle>
+<h1> My daily Tasks. </h1>
+
+<table class="my_table">
+    <thead>
+        <tr>
+            <td>No</td>
+            <td>Status</td>
+            <td>Title</td>
+            <td>Description</td>
+        </tr>
+    </thead>
+    <tbody>
+           <tr>
+               @foreach (var todo in todos)
+                {
+                    
+                }
+           </tr>
+
+    </tbody>
+</table>
+
+
+@code {
+    // Todo item list.
+    private List<TodoItem> todos = new();
+
+    // this will hold the new created todo item.
+    private string? newTodo;
+    private string? Description;
+    string creted_by = "Developer";
+
+    //let's now create a function for adding the TodoItems in a timporary list.
+    private void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            //here we add the new todoitem to the todos list
+            todos.Add(new TodoItem
+                {
+                    Title = newTodo
+                });
+        }
+    }
+
+
+}

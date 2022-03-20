@@ -1,0 +1,12 @@
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\bin\Debug\net6.0\WebAssemblyAppOne.Shared.deps.json
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\bin\Debug\net6.0\WebAssemblyAppOne.Shared.dll
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\bin\Debug\net6.0\WebAssemblyAppOne.Shared.pdb
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\obj\Debug\net6.0\WebAssemblyAppOne.Shared.csproj.AssemblyReference.cache
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\obj\Debug\net6.0\WebAssemblyAppOne.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\obj\Debug\net6.0\WebAssemblyAppOne.Shared.AssemblyInfoInputs.cache
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\obj\Debug\net6.0\WebAssemblyAppOne.Shared.AssemblyInfo.cs
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\obj\Debug\net6.0\WebAssemblyAppOne.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\obj\Debug\net6.0\WebAssemblyAppOne.Shared.dll
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\obj\Debug\net6.0\refint\WebAssemblyAppOne.Shared.dll
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\obj\Debug\net6.0\WebAssemblyAppOne.Shared.pdb
+C:\Users\Power-User\Desktop\Projects\TodoList\WebAssemblyAppOne\WebAssemblyAppOne\Shared\obj\Debug\net6.0\ref\WebAssemblyAppOne.Shared.dll
