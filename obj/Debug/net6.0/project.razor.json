@@ -359,6 +359,353 @@
         }
       },
       {
+        "HashCode": 1146151371,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.App",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.App"
+        }
+      },
+      {
+        "HashCode": 1918741248,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.App",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 962572185,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Counter",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -645961094,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Counter",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 236995705,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.FetchData",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 1134069492,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.FetchData",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1068863640,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Index",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -895302424,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Index",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 775917802,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Todo",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": -538475866,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Todo",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -884579963,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.SurveyPrompt",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -698435177,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.SurveyPrompt",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1186898277,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.MainLayout",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.MainLayout"
+        }
+      },
+      {
+        "HashCode": -1270838597,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.MainLayout",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1902603113,
+        "Kind": "Components.ChildContent",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.MainLayout.Body",
+        "AssemblyName": "TodoList",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -1145006306,
+        "Kind": "Components.ChildContent",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.MainLayout.Body",
+        "AssemblyName": "TodoList",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -284793403,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.NavMenu",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -514670324,
+        "Kind": "Components.Component",
+        "Name": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.NavMenu",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.WebAssemblyAppOne.WebAssemblyAppOne.Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1065816939,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -16655,6 +17002,26 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Pages\\Counter.razor",
+      "TargetPath": "WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\WebAssemblyAppOne\\WebAssemblyAppOne\\Server\\Pages\\Error.cshtml",
+      "TargetPath": "WebAssemblyAppOne\\WebAssemblyAppOne\\Server\\Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Pages\\FetchData.razor",
+      "TargetPath": "WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
@@ -16662,6 +17029,16 @@
     {
       "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Shared\\NavMenu.razor",
+      "TargetPath": "WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\App.razor",
+      "TargetPath": "WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\App.razor",
       "FileKind": "component"
     },
     {
@@ -16700,9 +17077,29 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Shared\\MainLayout.razor",
+      "TargetPath": "WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Pages\\Todo.razor",
+      "TargetPath": "WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Pages\\Todo.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Pages\\Index.razor",
+      "TargetPath": "WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Power-User\\Desktop\\Projects\\TodoList\\WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\_Imports.razor",
+      "TargetPath": "WebAssemblyAppOne\\WebAssemblyAppOne\\Client\\_Imports.razor",
+      "FileKind": "componentImport"
     }
   ],
   "SerializationFormat": "0.2"

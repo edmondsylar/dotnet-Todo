@@ -8,57 +8,97 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TodoList
 build_property.RootNamespace = TodoList
-build_property.ProjectDir = C:\Users\Power-User\Desktop\Projects\TodoList\
+build_property.ProjectDir = c:\Users\Power-User\Desktop\Projects\TodoList\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Power-User\Desktop\Projects\TodoList
+build_property.MSBuildProjectDirectory = c:\Users\Power-User\Desktop\Projects\TodoList
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/App.razor]
+[c:/Users/Power-User/Desktop/Projects/TodoList/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/Pages/Counter.razor]
+[c:/Users/Power-User/Desktop/Projects/TodoList/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/Pages/FetchData.razor]
+[c:/Users/Power-User/Desktop/Projects/TodoList/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/Pages/Index.razor]
+[c:/Users/Power-User/Desktop/Projects/TodoList/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/Pages/Todo.razor]
+[c:/Users/Power-User/Desktop/Projects/TodoList/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/Shared/SurveyPrompt.razor]
+[c:/Users/Power-User/Desktop/Projects/TodoList/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/_Imports.razor]
+[c:/Users/Power-User/Desktop/Projects/TodoList/WebAssemblyAppOne/WebAssemblyAppOne/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXNzZW1ibHlBcHBPbmVcV2ViQXNzZW1ibHlBcHBPbmVcQ2xpZW50XEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Power-User/Desktop/Projects/TodoList/WebAssemblyAppOne/WebAssemblyAppOne/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXNzZW1ibHlBcHBPbmVcV2ViQXNzZW1ibHlBcHBPbmVcQ2xpZW50XFBhZ2VzXENvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Power-User/Desktop/Projects/TodoList/WebAssemblyAppOne/WebAssemblyAppOne/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXNzZW1ibHlBcHBPbmVcV2ViQXNzZW1ibHlBcHBPbmVcQ2xpZW50XFBhZ2VzXEZldGNoRGF0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Power-User/Desktop/Projects/TodoList/WebAssemblyAppOne/WebAssemblyAppOne/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXNzZW1ibHlBcHBPbmVcV2ViQXNzZW1ibHlBcHBPbmVcQ2xpZW50XFBhZ2VzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Power-User/Desktop/Projects/TodoList/WebAssemblyAppOne/WebAssemblyAppOne/Client/Pages/Todo.razor]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXNzZW1ibHlBcHBPbmVcV2ViQXNzZW1ibHlBcHBPbmVcQ2xpZW50XFBhZ2VzXFRvZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Power-User/Desktop/Projects/TodoList/WebAssemblyAppOne/WebAssemblyAppOne/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXNzZW1ibHlBcHBPbmVcV2ViQXNzZW1ibHlBcHBPbmVcQ2xpZW50XFNoYXJlZFxTdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Power-User/Desktop/Projects/TodoList/WebAssemblyAppOne/WebAssemblyAppOne/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXNzZW1ibHlBcHBPbmVcV2ViQXNzZW1ibHlBcHBPbmVcQ2xpZW50XF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Power-User/Desktop/Projects/TodoList/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/Shared/MainLayout.razor]
+[c:/Users/Power-User/Desktop/Projects/TodoList/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lgk3a00odd
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/Shared/NavMenu.razor]
+[c:/Users/Power-User/Desktop/Projects/TodoList/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-8wslh49k3u
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/Pages/Error.cshtml]
+[c:/Users/Power-User/Desktop/Projects/TodoList/WebAssemblyAppOne/WebAssemblyAppOne/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXNzZW1ibHlBcHBPbmVcV2ViQXNzZW1ibHlBcHBPbmVcQ2xpZW50XFNoYXJlZFxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-vsxh8xyjih
+
+[c:/Users/Power-User/Desktop/Projects/TodoList/WebAssemblyAppOne/WebAssemblyAppOne/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXNzZW1ibHlBcHBPbmVcV2ViQXNzZW1ibHlBcHBPbmVcQ2xpZW50XFNoYXJlZFxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-9o58wnkwzs
+
+[c:/Users/Power-User/Desktop/Projects/TodoList/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/Pages/_Host.cshtml]
+[c:/Users/Power-User/Desktop/Projects/TodoList/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Power-User/Desktop/Projects/TodoList/Pages/_Layout.cshtml]
+[c:/Users/Power-User/Desktop/Projects/TodoList/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Power-User/Desktop/Projects/TodoList/WebAssemblyAppOne/WebAssemblyAppOne/Server/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXNzZW1ibHlBcHBPbmVcV2ViQXNzZW1ibHlBcHBPbmVcU2VydmVyXFBhZ2VzXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
