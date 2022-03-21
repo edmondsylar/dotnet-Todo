@@ -82,16 +82,6 @@ main[b-cc6f6p2ou8] {
 }
 
 /* Have some custome styles for my table and other we components */
-
-thead[b-cc6f6p2ou8] {
-    padding: 5px;
-    background-color: burlywood;
-    color: black;
-}
-
-.my_table[b-cc6f6p2ou8] {
-    display: block;
-}
 /* /Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-ghg6bwd7mp] {
     background-color: rgba(255, 255, 255, 0.1);

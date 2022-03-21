@@ -81,13 +81,3 @@ main {
 }
 
 /* Have some custome styles for my table and other we components */
-
-thead {
-    padding: 5px;
-    background-color: burlywood;
-    color: black;
-}
-
-.my_table {
-    display: block;
-}

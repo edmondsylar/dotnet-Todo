@@ -1,36 +1,54 @@
-<style>
-    .my_table{
-        display: none;
-        width: 75%;
-        
-    }
-</style>
-
-
 @page "/todo"
 
 <PageTitle>Todo Items</PageTitle>
 <h1> My daily Tasks. </h1>
 
-<table class="my_table">
-    <thead>
-        <tr>
-            <td>No</td>
-            <td>Status</td>
-            <td>Title</td>
-            <td>Description</td>
-        </tr>
-    </thead>
-    <tbody>
-           <tr>
-               @foreach (var todo in todos)
-                {
-                    
-                }
-           </tr>
+@* we are going to use cards to Track our tasks. *@
 
-    </tbody>
-</table>
+@* lets our task creation form. *@
+
+<div class="container">
+    <div class="col-sm-6" style="margin-bottom: 5px;">
+        <div class="form-group">
+        <label for="title">Title*</label>
+        <input @bind="newTodo" class="form-control" type="text" name="title" placeholder="Task title">
+        <label for="desc"> Description</label>
+        <textarea @bind="newDescription" class="form-control" name="description" id="" cols="30" placeholder="Task Description" rows="10"></textarea>
+
+        <button type="submit" class="btn btn-sm btn-primary" @onclick="AddTodo">Create</button>
+    </div>
+</div>
+    
+</div>
+
+<div class="container">
+    <div class="row">
+        @foreach (var todo in todos)
+        {
+            <div class="col-sm-6">
+                <div class="card mb-3" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="https://www.computerhope.com/jargon/t/task.png" class="img-fluid rounded-start" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"> @todo.Title </h5>
+                                <p class="card-text">
+                                    @todo.Description
+                                </p>
+                                <p class="card-text"><small class="text-muted">created by : Edmond Musiitwa </small></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+        }
+    </div>
+</div>
+
+
+
 
 
 @code {
@@ -39,8 +57,8 @@
 
     // this will hold the new created todo item.
     private string? newTodo;
-    private string? Description;
-    string creted_by = "Developer";
+    private string? newDescription;
+    private string created_by = "Developer";
 
     //let's now create a function for adding the TodoItems in a timporary list.
     private void AddTodo()
@@ -49,9 +67,13 @@
         {
             //here we add the new todoitem to the todos list
             todos.Add(new TodoItem
-                {
-                    Title = newTodo
-                });
+                {Title = newTodo, Description = newDescription});
+
+            @* after making creating the new todo, we now need to first clean 
+            all our input boxes to input more data afresh *@
+
+            newTodo = string.Empty;
+            newDescription = string.Empty;
         }
     }
 

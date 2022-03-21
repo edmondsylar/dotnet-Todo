@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-tSv6NEbBsHuM5P3AUJGybafS0hxrXlzDmmcyG2eGk3I=",
       "netstandard.dll": "sha256-klcvWVyHimPfDxg6W1A076EKpCB5ySxjtc7sxJEsGgE=",
       "System.Private.CoreLib.dll": "sha256-Y8kdbfPQ0YoYLGbOgzRmoVsnuMYNlA1hvLvDWFTtzrk=",
-      "WebAssemblyAppOne.Shared.dll": "sha256-mIvsshM5JZ45IgNRMve3RJQ9tAZEOPb32qgLKsw4+j8=",
-      "WebAssemblyAppOne.Client.dll": "sha256-3pMV64JjKb8Z1p57R3OWJkTJA2K0Svrv07DR+YHP9AM="
+      "WebAssemblyAppOne.Shared.dll": "sha256-OlthjVfEmpMQ2pfRG8PU7POaeW4IifKaIkQ4KjWQCPg=",
+      "WebAssemblyAppOne.Client.dll": "sha256-PU0rhfRzWtHVGypKGNSaKa56AZCHGFNp61DELMhyhnQ="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "WebAssemblyAppOne.Shared.pdb": "sha256-xPJ3nCU5s3m31FyMMWoGGe7jtRflWMIMfOE2bvD73pU=",
-      "WebAssemblyAppOne.Client.pdb": "sha256-CJlpwsEXDl9gC8FU+CW5CSYwAu4OSfwiL9bGrfGo8ns="
+      "WebAssemblyAppOne.Shared.pdb": "sha256-5QgoQFFSC0h6RI9A9bah7ABBqItggAjQ28MR+oACdKY=",
+      "WebAssemblyAppOne.Client.pdb": "sha256-CjsWoYl1FEOfNx+YxR1C4N7t3u\/rylva6b5gPpUGa+E="
     },
     "runtime": {
       "dotnet.6.0.3.p3g5vywn0j.js": "sha256-pRmcHKZN4T\/YbX9dj6ITT4sNtkJ9w07OLcwl4645nPg=",

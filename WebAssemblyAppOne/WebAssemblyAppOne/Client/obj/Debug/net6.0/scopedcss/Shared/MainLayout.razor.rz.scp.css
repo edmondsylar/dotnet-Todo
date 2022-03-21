@@ -81,13 +81,3 @@ main[b-cc6f6p2ou8] {
 }
 
 /* Have some custome styles for my table and other we components */
-
-thead[b-cc6f6p2ou8] {
-    padding: 5px;
-    background-color: burlywood;
-    color: black;
-}
-
-.my_table[b-cc6f6p2ou8] {
-    display: block;
-}
